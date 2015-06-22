@@ -11,7 +11,7 @@
  We will look at an assessment of the speed of performing different parts of
  your code and the assessment of memory consumption of different parts of your code. 
 
- ## Line-by-line timing
+## Line-by-line timing
 
 We will use the python
 [`line_profiler`](https://github.com/rkern/line_profiler) library for this. It
